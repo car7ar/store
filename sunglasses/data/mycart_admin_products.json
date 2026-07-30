@@ -1,0 +1,296 @@
+[
+  {
+    "sku": "SUN-006",
+    "stock": 40,
+    "id": 5106,
+    "name": "نظارة شمسية SOJOS مستطيلة رفيعة مستقطبة",
+    "price": 14,
+    "oldPrice": 24,
+    "categories": [
+      "نظارات",
+      "رجالي"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/51yFZdCzQGL._AC_SL1000_.jpg"
+    ],
+    "brand": "SOJOS",
+    "description": "نظارة مستطيلة رفيعة بتصميم ريترو وعدسات مستقطبة، خفيفة ومريحة للاستخدام اليومي.",
+    "featured": false,
+    "badge": "",
+    "countdown": {
+      "show": false,
+      "duration": 0
+    },
+    "liveViewers": {
+      "show": false
+    },
+    "features": [
+      "إطار رفيع ريترو",
+      "عدسات مستقطبة",
+      "حماية UV",
+      "خفيفة ومريحة"
+    ],
+    "specs": [
+      [
+        "الحماية",
+        "UV400 مستقطبة"
+      ],
+      [
+        "الشكل",
+        "Slim Rectangle"
+      ]
+    ],
+    "type": "normal",
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦",
+    "fbtProductIds": [
+      5102,
+      5103
+    ],
+    "fbtShow": true
+  },
+  {
+    "sku": "SUN-005",
+    "stock": 35,
+    "id": 5105,
+    "name": "نظارة شمسية SOJOS أفياتور سميك مستقطبة",
+    "price": 16,
+    "oldPrice": 26,
+    "categories": [
+      "نظارات",
+      "رجالي"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/61BXflCD%2BtL._AC_SL1000_.jpg"
+    ],
+    "brand": "SOJOS",
+    "description": "نظارة أفياتور كبيرة بإطار سميك جريء وعدسات مستقطبة، تصميم عصري يجمع بين الأناقة والحماية.",
+    "featured": true,
+    "badge": "",
+    "countdown": {
+      "show": false,
+      "duration": 0
+    },
+    "liveViewers": {
+      "show": true
+    },
+    "features": [
+      "عدسات مستقطبة",
+      "إطار سميك جريء",
+      "حماية UV400",
+      "حجم كبير عصري"
+    ],
+    "specs": [
+      [
+        "الحماية",
+        "UV400 مستقطبة"
+      ],
+      [
+        "الشكل",
+        "Bold Aviator"
+      ]
+    ],
+    "type": "normal",
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦",
+    "fbtProductIds": [
+      5101,
+      5104
+    ],
+    "fbtShow": true
+  },
+  {
+    "sku": "SUN-004",
+    "stock": 30,
+    "id": 5104,
+    "name": "نظارة شمسية كيمورن أفياتور مربعة مستقطبة",
+    "price": 16,
+    "oldPrice": 26,
+    "categories": [
+      "نظارات",
+      "نسائي"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/51lGaeAg5DL._AC_SL1000_.jpg"
+    ],
+    "brand": "kimorn",
+    "description": "نظارة أفياتور مربعة بعدسات مستقطبة (Polarized) توفر رؤية واضحة وحماية UV400، مثالية للقيادة والشاطئ.",
+    "featured": true,
+    "badge": "جديد",
+    "countdown": {
+      "show": false,
+      "duration": 0
+    },
+    "liveViewers": {
+      "show": true
+    },
+    "features": [
+      "عدسات مستقطبة",
+      "حماية UV400",
+      "إطار ريترو",
+      "رؤية واضحة بلا وهج"
+    ],
+    "specs": [
+      [
+        "الحماية",
+        "UV400 مستقطبة"
+      ],
+      [
+        "الشكل",
+        "Square Aviator"
+      ]
+    ],
+    "type": "normal",
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦",
+    "fbtProductIds": [
+      5105,
+      5106
+    ],
+    "fbtShow": true
+  },
+  {
+    "sku": "SUN-003",
+    "stock": 25,
+    "id": 5103,
+    "name": "نظارة شمسية بدون إطار Y2K فراشة",
+    "price": 13,
+    "oldPrice": 22,
+    "categories": [
+      "نظارات",
+      "نسائي"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/51LCiWRdxsL._AC_SL1000_.jpg"
+    ],
+    "brand": "knliwkm",
+    "description": "نظارة شمسية بدون إطار بتصميم فراشة عصري وعدسات ملونة، لمسة موضة جريئة وجذابة.",
+    "featured": false,
+    "badge": "",
+    "countdown": {
+      "show": false,
+      "duration": 0
+    },
+    "liveViewers": {
+      "show": false
+    },
+    "features": [
+      "تصميم بدون إطار",
+      "عدسات ملونة",
+      "خفيفة وعصرية",
+      "إطلالة Y2K"
+    ],
+    "specs": [
+      [
+        "الحماية",
+        "UV400"
+      ],
+      [
+        "الشكل",
+        "Rimless"
+      ]
+    ],
+    "type": "normal",
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦",
+    "fbtProductIds": [
+      5101,
+      5105
+    ],
+    "fbtShow": true
+  },
+  {
+    "sku": "SUN-002",
+    "stock": 65,
+    "id": 5102,
+    "name": "نظارة شمسية GUVIVي أوفال عيون القطة",
+    "price": 15,
+    "oldPrice": 25,
+    "categories": [
+      "نظارات",
+      "نسائي"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/51YXON9ry9L._AC_SL1000_.jpg"
+    ],
+    "brand": "GUVIVI",
+    "description": "نظارة بتصميم أوفال عيون القطة (Cat Eye) بطابع التسعينيات، خفيفة وأنيقة لإطلالة يومية مميزة.",
+    "featured": false,
+    "badge": "",
+    "countdown": {
+      "show": false,
+      "duration": 0
+    },
+    "liveViewers": {
+      "show": false
+    },
+    "features": [
+      "تصميم عيون القطة",
+      "حماية UV",
+      "خفيفة الوزن",
+      "إطلالة Y2K عصرية"
+    ],
+    "specs": [
+      [
+        "الحماية",
+        "UV"
+      ],
+      [
+        "الشكل",
+        "Oval Cat Eye"
+      ]
+    ],
+    "type": "normal",
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦",
+    "fbtProductIds": [
+      5101,
+      5104
+    ],
+    "fbtShow": true
+  },
+  {
+    "sku": "SUN-001",
+    "stock": 60,
+    "id": 5101,
+    "name": "نظارة شمسية SOJOS أفياتور ريترو مستطيلة",
+    "price": 16,
+    "oldPrice": 26,
+    "categories": [
+      "نظارات",
+      "نسائي"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/51TvnTUISOL._AC_SL1000_.jpg"
+    ],
+    "brand": "SOJOS",
+    "description": "نظارة شمسية عصرية بتصميم أفياتور ريترو وإطار رفيع، مع حماية UV400 كاملة من الأشعة فوق البنفسجية.",
+    "featured": true,
+    "badge": "الأكثر مبيعاً",
+    "countdown": {
+      "show": true,
+      "duration": 3600
+    },
+    "liveViewers": {
+      "show": true
+    },
+    "features": [
+      "حماية UV400 كاملة",
+      "إطار رفيف أنيق",
+      "عدسات مستطيلة ريترو",
+      "مناسبة للقيادة والسفر"
+    ],
+    "specs": [
+      [
+        "الحماية",
+        "UV400"
+      ],
+      [
+        "الإطار",
+        "بلاستيك مرن"
+      ]
+    ],
+    "type": "normal",
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦",
+    "fbtProductIds": [
+      5105,
+      5106
+    ],
+    "fbtShow": true
+  }
+]

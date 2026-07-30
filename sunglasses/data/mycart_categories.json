@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ساعات",
+    "image": "",
+    "isBrand": false,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "رجالي",
+    "image": "",
+    "isBrand": false,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "Casio",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "رياضي",
+    "image": "",
+    "isBrand": false,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "LN LENQIN",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "Timex",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "GOLDEN HOUR",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "KXAITO",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "نظارات",
+    "image": "",
+    "isBrand": false,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "نسائي",
+    "image": "",
+    "isBrand": false,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "SOJOS",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "GUVIVI",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "knliwkm",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  },
+  {
+    "name": "kimorn",
+    "image": "",
+    "isBrand": true,
+    "createdAt": "٢٩‏/٧‏/٢٠٢٦"
+  }
+]
